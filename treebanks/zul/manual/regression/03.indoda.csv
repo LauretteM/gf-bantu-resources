@@ -1,0 +1,112 @@
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda iyahamba
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV hamb_V))),indoda ehambayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda ayihambi
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV hamb_V))),indoda engahambi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda izohamba
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV hamb_V))),indoda ezohamba
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda ayizukuhamba
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV hamb_V))),indoda engazukuhamba
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV eq_V)))) NoVoc,indoda iyeqa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV eq_V))),indoda eqayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV eq_V)))) NoVoc,indoda ayeqi
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV eq_V))),indoda engeqi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV eq_V)))) NoVoc,indoda izokweqa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV eq_V))),indoda ezokweqa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV eq_V)))) NoVoc,indoda ayizukweqa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV eq_V))),indoda engazukweqa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda iyafa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV f_V))),indoda efayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda ayifi
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV f_V))),indoda engafi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda izokufa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV f_V))),indoda ezokufa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda ayizukufa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV f_V))),indoda engazukufa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda iyisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda eyisilwane
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda ayiyisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda engeyisilwane
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda izoba yisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda ezoba yisilwane
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda ayizukuba yisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda engezukuba yisilwane
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda yinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),indoda ende
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda ayinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),indoda engende
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda izoba yinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),indoda ezoba yinde
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda ayizukuba yinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),indoda engezukuba yinde
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R))))) NoVoc,indoda imnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda emnyama
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R ))))) NoVoc,indoda ayimnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda engemnyama
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R ))))) NoVoc,indoda izoba mnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda ezoba mnyama
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R ))))) NoVoc,indoda ayizukuba mnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda engezukuba mnyama
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda inomsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda enomsila
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda ayinamsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda engenamsila
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda izoba nomsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda ezoba nomsila
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda ayizukuba namsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda engezukuba namsila
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda ihambile
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV hamb_V))),indoda ehambileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda ayihambanga
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV hamb_V))),indoda engahambanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV ehl_V)))) NoVoc,indoda yehlile
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV ehl_V))),indoda eyehlileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV ehl_V)))) NoVoc,indoda ayehlanga
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV ehl_V))),indoda engehlanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda ifile
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV f_V))),indoda efileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda ayifanga
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV f_V))),indoda engafanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda ibiyisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda ebiyisilwane
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda ibingeyisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda ebingeyisilwane
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda ibiyinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),indoda ebiyinde
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda ibingeyinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),indoda ebingeyinde
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R))))) NoVoc,indoda ibimnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda ebimnyama
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R ))))) NoVoc,indoda ibingemnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda ebingemnyama
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda ibinomsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda ebinomsila
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda ibingenamsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda ebingenamsila
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda yahamba
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV hamb_V))),indoda eyahamba
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV hamb_V)))) NoVoc,indoda ayihambanga
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV hamb_V))),indoda engahambanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV ehl_V)))) NoVoc,indoda yehla
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV ehl_V))),indoda eyehla
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV ehl_V)))) NoVoc,indoda ayehlanga
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV ehl_V))),indoda engehlanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda yafa
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV f_V))),indoda eyafa
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseV f_V)))) NoVoc,indoda ayifanga
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV f_V))),indoda engafanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda yayiyisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda eyayiyisilwane
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N )))))) NoVoc,indoda yayingeyisilwane
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN lwane_7_8_N ))))),indoda eyayingeyisilwane
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda yayiyinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),indoda eyayiyinde
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,indoda yayingeyinde
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),indoda eyayingeyinde
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R))))) NoVoc,indoda yayimnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda eyayimnyama
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (CopAP (PositA mnyama_R ))))) NoVoc,indoda yayingemnyama
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopAP (PositA mnyama_R)))),indoda eyayingemnyama
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda yayinomsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda eyayinomsila
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN doda_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N )))))) NoVoc,indoda yayingenamsila
+RelNP (DetCN (DetNum NumSg) (UseN doda_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN sila_3_4_N ))))),indoda eyayingenamsila

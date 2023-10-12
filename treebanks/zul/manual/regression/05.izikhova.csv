@@ -1,0 +1,56 @@
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV hamb_V)))) NoVoc,izikhova ziyahamba
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV hamb_V))),izikhova ezihambayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV hamb_V)))) NoVoc,izikhova azihambi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV hamb_V))),izikhova ezingahambi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV hamb_V)))) NoVoc,izikhova zizohamba
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV hamb_V))),izikhova ezizohamba
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV hamb_V)))) NoVoc,izikhova azizukuhamba
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV hamb_V))),izikhova ezingazukuhamba
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV eq_V)))) NoVoc,izikhova ziyeqa
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV eq_V))),izikhova ezeqayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV eq_V)))) NoVoc,izikhova azeqi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV eq_V))),izikhova ezingeqi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV eq_V)))) NoVoc,izikhova zizokweqa
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV eq_V))),izikhova ezizokweqa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV eq_V)))) NoVoc,izikhova azizukweqa
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV eq_V))),izikhova ezingazukweqa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV f_V)))) NoVoc,izikhova ziyafa
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV f_V))),izikhova ezifayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV f_V)))) NoVoc,izikhova azifi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV f_V))),izikhova ezingafi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV f_V)))) NoVoc,izikhova zizokufa
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV f_V))),izikhova ezizokufa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseV f_V)))) NoVoc,izikhova azizukufa
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV f_V))),izikhova ezingazukufa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izikhova zingabafundi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izikhova ezingabafundi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izikhova azingabafundi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izikhova ezingengabafundi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izikhova zizoba ngabafundi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izikhova ezizoba ngabafundi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izikhova azizukuba ngabafundi
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izikhova ezingezukuba ngabafundi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA de_A ))))) NoVoc,izikhova zinde
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),izikhova ezinde
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA de_A ))))) NoVoc,izikhova azizinde
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),izikhova ezingezinde
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA de_A ))))) NoVoc,izikhova zizoba zinde
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),izikhova ezizoba zinde
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA de_A ))))) NoVoc,izikhova azizukuba zinde
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),izikhova ezingezukuba zinde
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA qotho_R))))) NoVoc,izikhova ziqotho
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),izikhova eziqotho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA qotho_R ))))) NoVoc,izikhova aziqotho
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),izikhova ezingeqotho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA qotho_R ))))) NoVoc,izikhova zizoba qotho
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),izikhova ezizoba qotho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (CopAP (PositA qotho_R ))))) NoVoc,izikhova azizukuba qotho
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),izikhova ezingezukuba qotho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izikhova zinemoto
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izikhova ezinemoto
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izikhova azinamoto
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izikhova ezingenamoto
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izikhova zizoba nemoto
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izikhova ezizoba nemoto
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN khova_7_8_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izikhova azizukuba namoto
+RelNP (DetCN (DetNum NumPl) (UseN khova_7_8_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izikhova ezingezukuba namoto

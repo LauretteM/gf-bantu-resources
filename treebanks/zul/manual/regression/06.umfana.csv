@@ -1,0 +1,40 @@
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative lapha_Loc)))) NoVoc,umfana ulapha
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopLocative lapha_Loc))),umfana olapha
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative lapha_Loc)))) NoVoc,umfana akekho lapha
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PNeg (RelVP IdRP (CopLocative lapha_Loc))),umfana ongekho lapha
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative lapha_Loc)))) NoVoc,umfana uzoba lapha
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PPos (RelVPShort IdRP (CopLocative lapha_Loc))),umfana ozoba lapha
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative lapha_Loc)))) NoVoc,umfana akazukuba lapha
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PNeg (RelVPShort IdRP (CopLocative lapha_Loc))),umfana ongezukuba lapha
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative khona_Loc)))) NoVoc,umfana ukhona
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopLocative khona_Loc))),umfana okhona
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative khona_Loc)))) NoVoc,umfana akekho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PNeg (RelVP IdRP (CopLocative khona_Loc))),umfana ongekho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative khona_Loc)))) NoVoc,umfana uzoba khona
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PPos (RelVPShort IdRP (CopLocative khona_Loc))),umfana ozoba khona
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative khona_Loc)))) NoVoc,umfana akazukuba khona
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PNeg (RelVPShort IdRP (CopLocative khona_Loc))),umfana ongezukuba khona
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNAdv phandle_LocN)))))) NoVoc,umfana uphandle
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopLocative (LocAdvLoc (LocNAdv phandle_LocN))))),umfana ophandle
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNAdv phandle_LocN)))))) NoVoc,umfana akekho phandle
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PNeg (RelVP IdRP (CopLocative (LocAdvLoc (LocNAdv phandle_LocN))))),umfana ongekho phandle
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNAdv phandle_LocN)))))) NoVoc,umfana uzoba phandle
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PPos (RelVPShort IdRP (CopLocative (LocAdvLoc (LocNAdv phandle_LocN))))),umfana ozoba phandle
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNAdv phandle_LocN)))))) NoVoc,umfana akazukuba phandle
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PNeg (RelVPShort IdRP (CopLocative (LocAdvLoc (LocNAdv phandle_LocN))))),umfana ongezukuba phandle
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N)))))))) NoVoc,umfana usekhaya
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N))))))),umfana osekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N)))))))) NoVoc,umfana akekho ekhaya
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PNeg (RelVP IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N))))))),umfana ongekho ekhaya
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N)))))))) NoVoc,umfana uzoba sekhaya
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PPos (RelVPShort IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N))))))),umfana ozoba sekhaya
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N)))))))) NoVoc,umfana akazukuba sekhaya
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PNeg (RelVPShort IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN khaya_5_6_N))))))),umfana ongezukuba sekhaya
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N)))))))) NoVoc,umfana usentabeni
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PPos (RelVP IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N))))))),umfana osentabeni
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N)))))))) NoVoc,umfana akekho entabeni
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TPresTemp PNeg (RelVP IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N))))))),umfana ongekho entabeni
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N)))))))) NoVoc,umfana uzoba sentabeni
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PPos (RelVPShort IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N))))))),umfana ozoba sentabeni
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N)))))))) NoVoc,umfana akazukuba sentabeni
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseRCl TFutTemp PNeg (RelVPShort IdRP (CopLocative (LocAdvLoc (LocNPAdv (DetCN (DetNum NumSg) (UseN taba_9_10_N))))))),umfana ongezukuba sentabeni

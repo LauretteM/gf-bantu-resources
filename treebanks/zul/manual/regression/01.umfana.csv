@@ -1,0 +1,112 @@
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana uyahamba
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV hamb_V))),umfana ohambayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana akahambi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV hamb_V))),umfana ongahambi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana uzohamba
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV hamb_V))),umfana ozohamba
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana akazukuhamba
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV hamb_V))),umfana ongazukuhamba
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV eq_V)))) NoVoc,umfana uyeqa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV eq_V))),umfana oweqayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV eq_V)))) NoVoc,umfana akeqi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV eq_V))),umfana ongeqi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV eq_V)))) NoVoc,umfana uzokweqa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV eq_V))),umfana ozokweqa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV eq_V)))) NoVoc,umfana akazukweqa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV eq_V))),umfana ongazukweqa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana uyafa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV f_V))),umfana ofayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana akafi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV f_V))),umfana ongafi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana uzokufa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV f_V))),umfana ozokufa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana akazukufa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV f_V))),umfana ongazukufa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana ungumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana ongumfundi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana akangumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana ongengumfundi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana uzoba ngumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana ozoba ngumfundi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana akazukuba ngumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana ongezukuba ngumfundi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana mkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA khulu_A)))),umfana omkhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana akamkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA khulu_A)))),umfana ongemkhulu
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana uzoba mkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA khulu_A)))),umfana ozoba mkhulu
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana akazukuba mkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA khulu_A)))),umfana ongezukuba mkhulu
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R))))) NoVoc,umfana uqotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),umfana oqotho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R ))))) NoVoc,umfana akaqotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),umfana ongeqotho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R ))))) NoVoc,umfana uzoba qotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),umfana ozoba qotho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R ))))) NoVoc,umfana akazukuba qotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),umfana ongezukuba qotho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana unemoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana onemoto
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana akanamoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana ongenamoto
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana uzoba nemoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana ozoba nemoto
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana akazukuba namoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana ongezukuba namoto
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana uhambile
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV hamb_V))),umfana ohambileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana akahambanga
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV hamb_V))),umfana ongahambanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV ehl_V)))) NoVoc,umfana wehlile
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV ehl_V))),umfana owehlileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV ehl_V)))) NoVoc,umfana akehlanga
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV ehl_V))),umfana ongehlanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana ufile
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV f_V))),umfana ofileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana akafanga
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV f_V))),umfana ongafanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana ubengumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana obengumfundi
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana ubengengumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana obengengumfundi
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana ubemkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopAP (PositA khulu_A)))),umfana obemkhulu
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana ubengemkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopAP (PositA khulu_A)))),umfana obengemkhulu
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R))))) NoVoc,umfana ubeqotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),umfana obeqotho
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R ))))) NoVoc,umfana ubengeqotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),umfana obengeqotho
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana ubenemoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana obenemoto
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana ubengenamoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana obengenamoto
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana wahamba
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV hamb_V))),umfana owahamba
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV hamb_V)))) NoVoc,umfana akahambanga
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV hamb_V))),umfana ongahambanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV ehl_V)))) NoVoc,umfana wehla
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV ehl_V))),umfana owehla
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV ehl_V)))) NoVoc,umfana akehlanga
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV ehl_V))),umfana ongehlanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana wafa
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV f_V))),umfana owafa
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseV f_V)))) NoVoc,umfana akafanga
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV f_V))),umfana ongafanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana wayengumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana owayengumfundi
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N )))))) NoVoc,umfana wayengengumfundi
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N ))))),umfana owayengengumfundi
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana wayemkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopAP (PositA khulu_A)))),umfana owayemkhulu
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA khulu_A ))))) NoVoc,umfana wayengemkhulu
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopAP (PositA khulu_A)))),umfana owayengemkhulu
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R))))) NoVoc,umfana wayeqotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),umfana owayeqotho
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (CopAP (PositA qotho_R ))))) NoVoc,umfana wayengeqotho
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),umfana owayengeqotho
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana wayenemoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana owayenemoto
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumSg ) (UseN fana_1_2_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,umfana wayengenamoto
+RelNP (DetCN (DetNum NumSg) (UseN fana_1_2_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),umfana owayengenamoto

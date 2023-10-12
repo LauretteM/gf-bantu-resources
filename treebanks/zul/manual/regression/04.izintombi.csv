@@ -1,0 +1,112 @@
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi ziyahamba
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV hamb_V))),izintombi ezihambayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi azihambi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV hamb_V))),izintombi ezingahambi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi zizohamba
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV hamb_V))),izintombi ezizohamba
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi azizukuhamba
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV hamb_V))),izintombi ezingazukuhamba
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV eq_V)))) NoVoc,izintombi ziyeqa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV eq_V))),izintombi ezeqayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV eq_V)))) NoVoc,izintombi azeqi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV eq_V))),izintombi ezingeqi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV eq_V)))) NoVoc,izintombi zizokweqa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV eq_V))),izintombi ezizokweqa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV eq_V)))) NoVoc,izintombi azizukweqa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV eq_V))),izintombi ezingazukweqa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi ziyafa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (UseV f_V))),izintombi ezifayo
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi azifi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (UseV f_V))),izintombi ezingafi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi zizokufa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (UseV f_V))),izintombi ezizokufa
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi azizukufa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (UseV f_V))),izintombi ezingazukufa
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi zingabafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ezingabafundi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi azingabafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ezingengabafundi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi zizoba ngabafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ezizoba ngabafundi
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi azizukuba ngabafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ezingezukuba ngabafundi
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi zinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),izintombi ezinde
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi azizinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),izintombi ezingezinde
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi zizoba zinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),izintombi ezizoba zinde
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi azizukuba zinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),izintombi ezingezukuba zinde
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R))))) NoVoc,izintombi ziqotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi eziqotho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R ))))) NoVoc,izintombi aziqotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ezingeqotho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R ))))) NoVoc,izintombi zizoba qotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ezizoba qotho
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R ))))) NoVoc,izintombi azizukuba qotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ezingezukuba qotho
+PhrUtt NoPConj (UttS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi zinemoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ezinemoto
+PhrUtt NoPConj (UttS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi azinamoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPresTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ezingenamoto
+PhrUtt NoPConj (UttS (UseCl TFutTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi zizoba nemoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ezizoba nemoto
+PhrUtt NoPConj (UttS (UseCl TFutTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi azizukuba namoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TFutTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ezingezukuba namoto
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi zihambile
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV hamb_V))),izintombi ezihambileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi azihambanga
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV hamb_V))),izintombi ezingahambanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV ehl_V)))) NoVoc,izintombi zehlile
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV ehl_V))),izintombi ezehlileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV ehl_V)))) NoVoc,izintombi azehlanga
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV ehl_V))),izintombi ezingehlanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi zifile
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (UseV f_V))),izintombi ezifileyo
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi azifanga
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (UseV f_V))),izintombi ezingafanga
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi bezingabafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ebezingabafundi
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi bezingabibafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ebezingabibafundi
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi bezizinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),izintombi ebezizinde
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi bezingezinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),izintombi ebezingezinde
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R))))) NoVoc,izintombi beziqotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ebeziqotho
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R ))))) NoVoc,izintombi bezingeqotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ebezingeqotho
+PhrUtt NoPConj (UttS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi bezinemoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ebezinemoto
+PhrUtt NoPConj (UttS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi bezingenamoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TPastTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ebezingenamoto
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi zahamba
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV hamb_V))),izintombi ezahamba
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV hamb_V)))) NoVoc,izintombi azihambanga
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV hamb_V))),izintombi ezingahambanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV ehl_V)))) NoVoc,izintombi zehla
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV ehl_V))),izintombi ezehla
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV ehl_V)))) NoVoc,izintombi azehlanga
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV ehl_V))),izintombi ezingehlanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi zafa
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (UseV f_V))),izintombi ezafa
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseV f_V)))) NoVoc,izintombi azifanga
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (UseV f_V))),izintombi ezingafanga
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi zazingabafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ezazingabafundi
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N )))))) NoVoc,izintombi zazingabibafundi
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopNP (DetCN (DetNum NumPl) (UseN fundi_1_2_N ))))),izintombi ezazingabibafundi
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi zazizinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopAP (PositA de_A)))),izintombi ezazizinde
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA de_A ))))) NoVoc,izintombi zazingezinde
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopAP (PositA de_A)))),izintombi ezazingezinde
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R))))) NoVoc,izintombi zaziqotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ezaziqotho
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (CopAP (PositA qotho_R ))))) NoVoc,izintombi zazingeqotho
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopAP (PositA qotho_R)))),izintombi ezazingeqotho
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PPos (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi zazinemoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PPos (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ezazinemoto
+PhrUtt NoPConj (UttS (UseCl TRemPastTemp PNeg (PredVP (DetCN (DetNum NumPl ) (UseN tombi_9_10_N )) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N )))))) NoVoc,izintombi zazingenamoto
+RelNP (DetCN (DetNum NumPl) (UseN tombi_9_10_N )) (UseRCl TRemPastTemp PNeg (RelVP IdRP (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N ))))),izintombi ezazingenamoto
