@@ -9,6 +9,7 @@ import json
 
 LANG_CODE="Zul"
 DELIM=','
+COMMENT = '#'
 
 def read_paired_input(in_str):
     lines = in_str.split("\n")
@@ -316,7 +317,9 @@ if __name__ == '__main__':
         with open(args.treebank, newline='') as csvfile:
             treebankreader = csv.reader(csvfile)
             for row in treebankreader:
-                treelin_pairs.append(tuple(row))
+                pair = tuple(row)
+                if len(pair) == 2 and not pair[0].startswith(COMMENT):
+                    treelin_pairs.append(tuple(row))
         failures = regression_test(grammar,treelin_pairs,lang_code)
         if len(failures) > 0:
             reportfilename = os.path.join(reportpath)
