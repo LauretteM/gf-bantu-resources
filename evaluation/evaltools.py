@@ -316,10 +316,19 @@ if __name__ == '__main__':
         treelin_pairs = []
         with open(args.treebank, newline='') as csvfile:
             treebankreader = csv.reader(csvfile)
-            for row in treebankreader:
-                pair = tuple(row)
+            rows = [r for r in treebankreader]
+            try:  # if there is a header
+                tree_col = rows[0].index('tree')
+                lin_col = rows[0].index(lang_code.lower())
+                offset = 1
+            except ValueError: # assume there is no header
+                tree_col = 0
+                lin_col = 1
+                offset = 0
+            for row in rows[offset:]:
+                pair = (row[tree_col],row[lin_col])
                 if len(pair) == 2 and not pair[0].startswith(COMMENT):
-                    treelin_pairs.append(tuple(row))
+                    treelin_pairs.append(pair)
         failures = regression_test(grammar,treelin_pairs,lang_code)
         if len(failures) > 0:
             reportfilename = os.path.join(reportpath)
