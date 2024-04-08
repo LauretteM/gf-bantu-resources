@@ -1,0 +1,72 @@
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,umfana ahambe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,umfana angahambi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,umfana eqe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,umfana angeqi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,umfana afe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,umfana angafi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana alibone
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana angaliboni
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana aleqe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana angaleqi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,umfana abe ngumfundi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,umfana angabi ngumfundi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,umfana abemkhulu
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,umfana angabi mkhulu
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,umfana abeqotho
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,umfana angabi qotho
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,umfana abe nemoto
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,umfana angabi namoto
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,umfana wahamba
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,umfana wangahamba
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,umfana weqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,umfana wangeqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,umfana wafa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,umfana wangafa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana walibona
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana wangalibona
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana waleqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,umfana wangaleqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,umfana waba ngumfundi
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,umfana wangabi ngumfundi
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,umfana wayemkhulu
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,umfana wayengemkhulu
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,umfana wayeqotho
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,umfana wayengeqotho
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,umfana waba nemoto
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumSg) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,umfana wangabi namoto
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,abafana bahambe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,abafana bangahambi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,abafana beqe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,abafana bangeqi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,abafana bafe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,abafana bangafi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana balibone
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana bangaliboni
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana baleqe
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana bangaleqi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,abafana babe ngumfundi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,abafana bangabi ngumfundi
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,abafana bebebakhulu
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,abafana bangabi bakhulu
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,abafana bebeqotho
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,abafana bangabi qotho
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,abafana babe nemoto
+PhrUtt NoPConj (SubjunctS (UseCl TPresTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,abafana bangabi namoto
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,abafana bahamba
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV hamb_V)))) NoVoc,abafana bangahamba
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,abafana beqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV eq_V)))) NoVoc,abafana bangeqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,abafana bafa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (UseV f_V)))) NoVoc,abafana bangafa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana balibona
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 bon_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana bangalibona
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana baleqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (ComplV2 eq_V2 (UsePron (ProDrop it5_Pron)))))) NoVoc,abafana bangaleqa
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,abafana baba ngumfundi
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNP (DetCN (DetNum NumSg) (UseN fundi_1_2_N)))))) NoVoc,abafana bangabi ngumfundi
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,abafana babebakhulu
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA khulu_A))))) NoVoc,abafana babengebakhulu
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,abafana babeqotho
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopAP (PositA qotho_R))))) NoVoc,abafana babengeqotho
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PPos (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,abafana baba nemoto
+PhrUtt NoPConj (ConsecS (UseCl TPastTemp PNeg (PredVP (DetCN (DetNum NumPl) (UseN fana_1_2_N)) (CopNPAssoc (DetCN (DetNum NumSg) (UseN moto_9_10_N)))))) NoVoc,abafana bangabi namoto
