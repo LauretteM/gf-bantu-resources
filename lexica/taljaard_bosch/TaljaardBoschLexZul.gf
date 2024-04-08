@@ -1,4 +1,4 @@
-concrete DevLexZul of DevLex = CatZul ** open ResZul, ParadigmsZul in {
+concrete TaljaardBoschLexZul of TaljaardBoschLex = CatZul ** open ResZul, ParadigmsZul in {
 
   lin
     -- adjectives

@@ -1,4 +1,4 @@
-abstract DevLex = Cat ** {
+abstract TaljaardBoschLex = Cat ** {
 
   fun
     -- adjectives

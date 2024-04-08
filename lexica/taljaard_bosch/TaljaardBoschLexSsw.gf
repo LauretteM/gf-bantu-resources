@@ -1,4 +1,4 @@
-concrete DevLexSsw of DevLex = CatSsw ** open ResSsw, ParadigmsSsw in {
+concrete TaljaardBoschLexSsw of TaljaardBoschLex = CatSsw ** open ResSsw, ParadigmsSsw in {
 
   lin
     -- adjectives
