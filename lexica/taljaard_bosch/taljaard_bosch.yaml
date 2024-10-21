@@ -1,0 +1,3608 @@
+aardvark_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: ambane
+  zul:
+    class: '7_8'
+    lemma: ambane
+accident_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ngoti
+  zul:
+    class: '9_10'
+    lemma: ngozi
+add_V:
+  pos: V
+  ssw:
+    lemma: hlanganis
+  zul:
+    lemma: hlanganis
+addition_V:
+  pos: V
+  ssw:
+    lemma: hlanganis
+  zul:
+    lemma: hlanganis
+address_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kheli
+  zul:
+    class: '5_6'
+    lemma: kheli
+afternoon_N:
+  pos: N
+  ssw:
+    class: '9_6'
+    lemma: tsambama
+  zul:
+    class: '9_6'
+    lemma: thambama
+age_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: dzala
+  zul:
+    class: '14'
+    lemma: dala
+air_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: moya
+  zul:
+    class: '3_4'
+    lemma: moya
+angry_V:
+  pos: V
+  ssw:
+    lemma: tfukutsel
+  zul:
+    lemma: thukuthel
+answer_V:
+  pos: V
+  ssw:
+    lemma: phendvul
+  zul:
+    lemma: phendul
+ant_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ntfutfwane
+  zul:
+    class: '9_10'
+    lemma: ntuthwane
+arrow_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: cibisholo
+  zul:
+    class: '3_4'
+    lemma: cibisholo
+art_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: ciko
+  zul:
+    class: '14'
+    lemma: ciko
+artist_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: ciko
+  zul:
+    class: '5_6'
+    lemma: ciko
+ash_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: lotsa
+  zul:
+    class: '3_4'
+    lemma: lotha
+ask_V:
+  pos: V
+  ssw:
+    lemma: but
+  zul:
+    lemma: buz
+baboon_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: fene
+  zul:
+    class: '9_10'
+    lemma: fene
+baby_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: ntfwana
+  zul:
+    class: '1_2'
+    lemma: ntwana
+back_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: hlane
+  zul:
+    class: '3_4'
+    lemma: hlane
+badger_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nsele
+  zul:
+    class: '9_10'
+    lemma: nsele
+bake_V:
+  pos: V
+  ssw:
+    lemma: bhak
+  zul:
+    lemma: bhak
+baking_V:
+  pos: V
+  ssw:
+    lemma: bhak
+  zul:
+    lemma: bhak
+bakkie_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: veni
+  zul:
+    class: '5_6'
+    lemma: veni
+ball_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhola
+  zul:
+    class: '5_6'
+    lemma: bhola
+banana_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: bhanana
+  zul:
+    class: 1a_2a
+    lemma: bhanana
+bank_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhange
+  zul:
+    class: '5_6'
+    lemma: bhange
+bat_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: lulwane
+  zul:
+    class: '5_6'
+    lemma: lulwane
+be careful!_V:
+  pos: V
+  ssw:
+    lemma: caphel
+  zul:
+    lemma: qaphel
+beach_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhishi
+  zul:
+    class: '5_6'
+    lemma: bhishi
+bee_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nyosi
+  zul:
+    class: '9_10'
+    lemma: nyosi
+bell_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nsimbi
+  zul:
+    class: '9_10'
+    lemma: nsimbi
+belly button_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: khaba
+  zul:
+    class: '9_10'
+    lemma: khaba
+bench_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhentshi
+  zul:
+    class: '5_6'
+    lemma: bhentshi
+bicycle_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhayisikili
+  zul:
+    class: '5_6'
+    lemma: bhayisikili
+biltong_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: cwayiba
+  zul:
+    class: '3_4'
+    lemma: qwayiba
+birth_V:
+  pos: V
+  ssw:
+    lemma: tal
+  zul:
+    lemma: zal
+bite_V:
+  pos: V
+  ssw:
+    lemma: lum
+  zul:
+    lemma: lum
+blossom_V:
+  pos: V
+  ssw:
+    lemma: chakat
+  zul:
+    lemma: qhakaz
+boat_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: kebhe
+  zul:
+    class: '7_8'
+    lemma: kebhe
+body_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: timba
+  zul:
+    class: '3_4'
+    lemma: zimba
+boil_V:
+  pos: V
+  ssw:
+    lemma: bilis
+  zul:
+    lemma: bilis
+bottle_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhodlela
+  zul:
+    class: '5_6'
+    lemma: bhodlela
+boy_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: fana
+  zul:
+    class: '1_2'
+    lemma: fana
+bracket_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: kaki
+  zul:
+    class: '1_2'
+    lemma: kaki
+breakfast_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhulakufesi
+  zul:
+    class: '5_6'
+    lemma: bhulakufesi
+breed_V:
+  pos: V
+  ssw:
+    lemma: talanis
+  zul:
+    lemma: zalanis
+brick_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tini
+  zul:
+    class: '7_8'
+    lemma: tini
+bridge_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhuloho
+  zul:
+    class: '5_6'
+    lemma: bhuloho
+brush_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhulashi
+  zul:
+    class: '5_6'
+    lemma: bhulashi
+brush_V:
+  pos: V
+  ssw:
+    lemma: cubh
+  zul:
+    lemma: xubh
+builder_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: akhi
+  zul:
+    class: '1_2'
+    lemma: akhi
+bus_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhasi
+  zul:
+    class: '5_6'
+    lemma: bhasi
+bushbuck_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: babala
+  zul:
+    class: '9_10'
+    lemma: babala
+busy_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: tasatasa
+  zul:
+    class: '6'
+    lemma: tasatasa
+butchery_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: silaha
+  zul:
+    class: '5_6'
+    lemma: silaha
+butter_N:
+  pos: N
+  ssw:
+    class: '5'
+    lemma: bhotela
+  zul:
+    class: '5'
+    lemma: bhotela
+button_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nkinobho
+  zul:
+    class: '9_10'
+    lemma: nkinobho
+buy_V:
+  pos: V
+  ssw:
+    lemma: tseng
+  zul:
+    lemma: theng
+cabbage_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: klabishi
+  zul:
+    class: '5_6'
+    lemma: klabishi
+cage_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kheji
+  zul:
+    class: '5_6'
+    lemma: kheji
+cake_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khekhe
+  zul:
+    class: '5_6'
+    lemma: khekhe
+calculate_V:
+  pos: V
+  ssw:
+    lemma: bal
+  zul:
+    lemma: bal
+candle_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khandlela
+  zul:
+    class: '5_6'
+    lemma: khandlela
+capital letter_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: feleba
+  zul:
+    class: 1a_2a
+    lemma: feleba
+captain_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: kaputeni
+  zul:
+    class: 1a_2a
+    lemma: kaputeni
+caracal_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: dzabushe
+  zul:
+    class: '9_10'
+    lemma: dabushe
+care_V:
+  pos: V
+  ssw:
+    lemma: nakekel
+  zul:
+    lemma: nakekel
+carpenter_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: bati
+  zul:
+    class: '1_2'
+    lemma: bazi
+cat_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kati
+  zul:
+    class: '5_6'
+    lemma: kati
+catch_V:
+  pos: V
+  ssw:
+    lemma: bamb
+  zul:
+    lemma: bamb
+cent_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: senti
+  zul:
+    class: '5_6'
+    lemma: senti
+chair_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: hlalo
+  zul:
+    class: '7_8'
+    lemma: hlalo
+chameleon_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: nwabu
+  zul:
+    class: '11_10'
+    lemma: nwabu
+chest_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: fuba
+  zul:
+    class: '7_8'
+    lemma: fuba
+chew_V:
+  pos: V
+  ssw:
+    lemma: hlafun
+  zul:
+    lemma: hlafun
+chin_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: levu
+  zul:
+    class: '7_8'
+    lemma: levu
+church_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: sontfo
+  zul:
+    class: '5_6'
+    lemma: sonto
+circus_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: sekisi
+  zul:
+    class: '5_6'
+    lemma: sekisi
+clap_V:
+  pos: V
+  ssw:
+    lemma: shay
+  zul:
+    lemma: shay
+classroom_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kilasi
+  zul:
+    class: '5_6'
+    lemma: kilasi
+clay_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bumba
+  zul:
+    class: '5_6'
+    lemma: bumba
+clean_V:
+  pos: V
+  ssw:
+    lemma: hlant
+  zul:
+    lemma: hlanz
+cliff_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: wa
+  zul:
+    class: '5_6'
+    lemma: wa
+climb_V:
+  pos: V
+  ssw:
+    lemma: khwel
+  zul:
+    lemma: khwel
+clinic_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: tfolampilo
+  zul:
+    class: '3_4'
+    lemma: tholampilo
+clock_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: washi
+  zul:
+    class: '5_6'
+    lemma: washi
+cloud_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: fu
+  zul:
+    class: '5_6'
+    lemma: fu
+cloudy_V2:
+  pos: V2
+  ssw:
+    lemma: gucubal
+  zul:
+    lemma: guqubal
+coach_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: ceceshi
+  zul:
+    class: '1_2'
+    lemma: qeqeshi
+coast_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: gu
+  zul:
+    class: '11_10'
+    lemma: gu
+coffee_N:
+  pos: N
+  ssw:
+    class: '5'
+    lemma: khofi
+  zul:
+    class: '5'
+    lemma: khofi
+colours_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: bala
+  zul:
+    class: '3_4'
+    lemma: bala
+comb_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kamu
+  zul:
+    class: '5_6'
+    lemma: kamu
+communication_V:
+  pos: V
+  ssw:
+    lemma: chuman
+  zul:
+    lemma: xhuman
+concert_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khonsathi
+  zul:
+    class: '5_6'
+    lemma: khonsathi
+consonant_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: ngwaca
+  zul:
+    class: 1a_2a
+    lemma: ngwaqa
+cook_V:
+  pos: V
+  ssw:
+    lemma: phek
+  zul:
+    lemma: phek
+cool_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: pholile
+  zul:
+    class: 1a_2a
+    lemma: pholile
+couch_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: sofa
+  zul:
+    class: 1a_2a
+    lemma: sofa
+cow_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: khomo
+  zul:
+    class: '9_10'
+    lemma: khomo
+crawl_V:
+  pos: V
+  ssw:
+    lemma: khas
+  zul:
+    lemma: khas
+cricket_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nyekevu
+  zul:
+    class: '9_10'
+    lemma: nyekevu
+crocodile_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: gwenya
+  zul:
+    class: '9_10'
+    lemma: gwenya
+cross_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: phambano
+  zul:
+    class: '7_8'
+    lemma: phambano
+cry_V:
+  pos: V
+  ssw:
+    lemma: khal
+  zul:
+    lemma: khal
+cup_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nkomishi
+  zul:
+    class: '9_10'
+    lemma: nkomishi
+cupboard_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khabetse
+  zul:
+    class: '5_6'
+    lemma: khabethe
+cushion_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khushini
+  zul:
+    class: '5_6'
+    lemma: khushini
+cut_V:
+  pos: V
+  ssw:
+    lemma: sik
+  zul:
+    lemma: sik
+danger!_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ngoti
+  zul:
+    class: '9_10'
+    lemma: ngozi
+dassie_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: mbila
+  zul:
+    class: '6'
+    lemma: mbila
+date_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: suku
+  zul:
+    class: '11_10'
+    lemma: suku
+daughter_N:
+  pos: N
+  ssw:
+    class: '9_6'
+    lemma: dvodzakati
+  zul:
+    class: '9_6'
+    lemma: dodakazi
+day_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: suku
+  zul:
+    class: '11_10'
+    lemma: suku
+death_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: kufa
+  zul:
+    class: 1a_2a
+    lemma: kufa
+depth_V:
+  pos: V
+  ssw:
+    lemma: jul
+  zul:
+    lemma: jul
+desert_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: gwadvule
+  zul:
+    class: '11_10'
+    lemma: gwadule
+diamond_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: dzayimani
+  zul:
+    class: '5_6'
+    lemma: dayimani
+dirty_V:
+  pos: V
+  ssw:
+    lemma: ngcol
+  zul:
+    lemma: ngcol
+distance_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: banga
+  zul:
+    class: '5_6'
+    lemma: banga
+divide_V:
+  pos: V
+  ssw:
+    lemma: hlukanis
+  zul:
+    lemma: hlukanis
+division_V:
+  pos: V
+  ssw:
+    lemma: hlukanis
+  zul:
+    lemma: hlukanis
+dog_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ja
+  zul:
+    class: '9_10'
+    lemma: ja
+donkey_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: bhongolo
+  zul:
+    class: '9_10'
+    lemma: bhongolo
+draw_V:
+  pos: V
+  ssw:
+    lemma: dvweb
+  zul:
+    lemma: dweb
+dream_V:
+  pos: V
+  ssw:
+    lemma: phuph
+  zul:
+    lemma: phuph
+dress_V:
+  pos: V
+  ssw:
+    lemma: gcok
+  zul:
+    lemma: gqok
+drive_V:
+  pos: V
+  ssw:
+    lemma: shayel
+  zul:
+    lemma: shayel
+driver_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: shayeli
+  zul:
+    class: '1_2'
+    lemma: shayeli
+drought_N:
+  pos: N
+  ssw:
+    class: '7'
+    lemma: omiso
+  zul:
+    class: '7'
+    lemma: omiso
+drums_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: gubhu
+  zul:
+    class: '7_8'
+    lemma: gubhu
+dry_V:
+  pos: V
+  ssw:
+    lemma: omis
+  zul:
+    lemma: omis
+dune_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: dvundvuma
+  zul:
+    class: '9_10'
+    lemma: dunduma
+ear_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: dlebe
+  zul:
+    class: '9_10'
+    lemma: dlebe
+earth_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: hlaba
+  zul:
+    class: '3_4'
+    lemma: hlaba
+earthworm_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: sundvu
+  zul:
+    class: '3_4'
+    lemma: sundu
+eat_V:
+  pos: V
+  ssw:
+    lemma: dl
+  zul:
+    lemma: dl
+education_N:
+  pos: N
+  ssw:
+    class: '9'
+    lemma: fundvo
+  zul:
+    class: '9'
+    lemma: fundo
+egg_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: candza
+  zul:
+    class: '5_6'
+    lemma: qanda
+eggs_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: candza
+  zul:
+    class: '5_6'
+    lemma: qanda
+eight_N:
+  pos: N
+  ssw:
+    class: '7'
+    lemma: shiyagalombili
+  zul:
+    class: '7'
+    lemma: shiyagalombili
+elephant_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: dlovu
+  zul:
+    class: '9_10'
+    lemma: dlovu
+emergency_V:
+  pos: V
+  ssw:
+    lemma: phutfum
+  zul:
+    lemma: phuthum
+energy_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: andla
+  zul:
+    class: '6'
+    lemma: andla
+erase_V:
+  pos: V
+  ssw:
+    lemma: sul
+  zul:
+    lemma: sul
+expensive_V2:
+  pos: V2
+  ssw:
+    lemma: bit
+  zul:
+    lemma: biz
+eye_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: iso
+  zul:
+    class: '5_6'
+    lemma: iso
+face_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: so
+  zul:
+    class: '14'
+    lemma: so
+farmer_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: limi
+  zul:
+    class: '1_2'
+    lemma: limi
+fat_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: futsa
+  zul:
+    class: '6'
+    lemma: futha
+feed_V:
+  pos: V
+  ssw:
+    lemma: phakel
+  zul:
+    lemma: phakel
+film_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: filimu
+  zul:
+    class: '5_6'
+    lemma: filimu
+finch_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ntaka
+  zul:
+    class: '9_10'
+    lemma: ntaka
+fine_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: hlawulo
+  zul:
+    class: '9_10'
+    lemma: hlawulo
+finger_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: nwe
+  zul:
+    class: '3_4'
+    lemma: nwe
+fire_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: lilo
+  zul:
+    class: '3_4'
+    lemma: lilo
+fireplace_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: tiko
+  zul:
+    class: '5_6'
+    lemma: ziko
+fish_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: hlanti
+  zul:
+    class: '9_10'
+    lemma: hlanzi
+five_A:
+  pos: A
+  ssw:
+    lemma: hlanu
+  zul:
+    lemma: hlanu
+flame_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: langabi
+  zul:
+    class: '5_6'
+    lemma: langabi
+flamingo_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: makholwase
+  zul:
+    class: 1a_2a
+    lemma: makholwase
+flood_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khukhula
+  zul:
+    class: '7_8'
+    lemma: khukhula
+flour_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: fulawa
+  zul:
+    class: 1a_2a
+    lemma: fulawa
+flower_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: mbali
+  zul:
+    class: '6'
+    lemma: mbali
+fold_V:
+  pos: V
+  ssw:
+    lemma: song
+  zul:
+    lemma: song
+food_V:
+  pos: V
+  ssw:
+    lemma: dl
+  zul:
+    lemma: dl
+foot_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: nyawo
+  zul:
+    class: '11_10'
+    lemma: nyawo
+forget_V:
+  pos: V
+  ssw:
+    lemma: khohlw
+  zul:
+    lemma: khohlw
+forgive_V:
+  pos: V
+  ssw:
+    lemma: colel
+  zul:
+    lemma: xolel
+fork_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: fologo
+  zul:
+    class: '9_10'
+    lemma: fologo
+forwards_Adv:
+  pos: Adv
+  ssw:
+    lemma: phambili
+  zul:
+    lemma: phambili
+four_A:
+  pos: A
+  ssw:
+    lemma: ne
+  zul:
+    lemma: ne
+fox_N:
+  pos: N
+  ssw:
+    class: '9'
+    lemma: mpungushe
+  zul:
+    class: '9'
+    lemma: mpungushe
+freedom_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: khululeko
+  zul:
+    class: '9_10'
+    lemma: khululeko
+fresh_A:
+  pos: A
+  ssw:
+    lemma: sha
+  zul:
+    lemma: sha
+front_Adv:
+  pos: Adv
+  ssw:
+    lemma: phambili
+  zul:
+    lemma: phambili
+frost_N:
+  pos: N
+  ssw:
+    class: '7'
+    lemma: tfwatfwa
+  zul:
+    class: '7'
+    lemma: thwathwa
+fruit_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tselo
+  zul:
+    class: '7_8'
+    lemma: thelo
+full stop_N:
+  pos: N
+  ssw:
+    class: '11'
+    lemma: ngci
+  zul:
+    class: '11'
+    lemma: ngqi
+game_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: dlalo
+  zul:
+    class: '3_4'
+    lemma: dlalo
+garage_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: galaji
+  zul:
+    class: '5_6'
+    lemma: galaji
+garden_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: gadzi
+  zul:
+    class: '9_10'
+    lemma: gadi
+gas_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gesi
+  zul:
+    class: '5_6'
+    lemma: gesi
+gift_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: pho
+  zul:
+    class: '7_8'
+    lemma: pho
+girl_N:
+  pos: N
+  ssw:
+    class: '9_6'
+    lemma: ntfombatane
+  zul:
+    class: '9_6'
+    lemma: ntombazane
+glove_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gilavu
+  zul:
+    class: '5_6'
+    lemma: gilavu
+goal post_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: pali
+  zul:
+    class: '5_6'
+    lemma: pali
+goat_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: bhuti
+  zul:
+    class: '9_10'
+    lemma: bhuzi
+golf_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: galofu
+  zul:
+    class: '5_6'
+    lemma: galofu
+goose_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: hansi
+  zul:
+    class: '5_6'
+    lemma: hansi
+grandmother_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: gogo
+  zul:
+    class: 1a_2a
+    lemma: gogo
+grasshopper_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: tsetse
+  zul:
+    class: '9_10'
+    lemma: thethe
+graze_V:
+  pos: V
+  ssw:
+    lemma: klab
+  zul:
+    lemma: klab
+guinea fowl_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: mpangele
+  zul:
+    class: '9_10'
+    lemma: mpangele
+hair_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: nwele
+  zul:
+    class: '11_10'
+    lemma: nwele
+hammer_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: andvo
+  zul:
+    class: '7_8'
+    lemma: ando
+hand_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: andla
+  zul:
+    class: '7_8'
+    lemma: andla
+hang_V:
+  pos: V
+  ssw:
+    lemma: leng
+  zul:
+    lemma: leng
+happy_V:
+  pos: V
+  ssw:
+    lemma: jabul
+  zul:
+    lemma: jabul
+hat_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: gcoko
+  zul:
+    class: '7_8'
+    lemma: gqoko
+hawk_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: klebe
+  zul:
+    class: 1a_2a
+    lemma: klebe
+heart_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: hlitiyo
+  zul:
+    class: '9_10'
+    lemma: hliziyo
+height_V:
+  pos: V
+  ssw:
+    lemma: phakam
+  zul:
+    lemma: phakam
+help_V:
+  pos: V
+  ssw:
+    lemma: sit
+  zul:
+    lemma: siz
+helpful_V2:
+  pos: V2
+  ssw:
+    lemma: t
+  zul:
+    lemma: z
+hide_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khumba
+  zul:
+    class: '7_8'
+    lemma: khumba
+hill_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gcuma
+  zul:
+    class: '5_6'
+    lemma: gquma
+hippopotamus_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: vubu
+  zul:
+    class: '9_10'
+    lemma: vubu
+hit_V:
+  pos: V
+  ssw:
+    lemma: shay
+  zul:
+    lemma: shay
+hole_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: godzi
+  zul:
+    class: '3_4'
+    lemma: godi
+hollow_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: godzi
+  zul:
+    class: '3_4'
+    lemma: godi
+home_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khaya
+  zul:
+    class: '5_6'
+    lemma: khaya
+honey_N:
+  pos: N
+  ssw:
+    class: '11'
+    lemma: ju
+  zul:
+    class: '11'
+    lemma: ju
+horn_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: phondvo
+  zul:
+    class: '11_10'
+    lemma: phondo
+horse_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: hhashi
+  zul:
+    class: '5_6'
+    lemma: hhashi
+hospital_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: bhedlela
+  zul:
+    class: '7_8'
+    lemma: bhedlela
+hotel_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: hhotela
+  zul:
+    class: '5_6'
+    lemma: hhotela
+hug_V:
+  pos: V
+  ssw:
+    lemma: gon
+  zul:
+    lemma: gon
+hunt_V:
+  pos: V
+  ssw:
+    lemma: tingel
+  zul:
+    lemma: zingel
+intruder_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: gebengu
+  zul:
+    class: '7_8'
+    lemma: gebengu
+island_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: chingi
+  zul:
+    class: '7_8'
+    lemma: qhingi
+jam_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: jamu
+  zul:
+    class: 1a_2a
+    lemma: jamu
+judge_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: jaji
+  zul:
+    class: '5_6'
+    lemma: jaji
+kick_V:
+  pos: V
+  ssw:
+    lemma: khahlel
+  zul:
+    lemma: khahlel
+knee_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: dvolo
+  zul:
+    class: '5_6'
+    lemma: dolo
+kraal_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: baya
+  zul:
+    class: '7_8'
+    lemma: baya
+label_V2:
+  pos: V2
+  ssw:
+    lemma: ebul
+  zul:
+    lemma: ebul
+ladybird_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhungane
+  zul:
+    class: '5_6'
+    lemma: bhungane
+lair_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khundla
+  zul:
+    class: '7_8'
+    lemma: khundla
+lake_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: chibi
+  zul:
+    class: '5_6'
+    lemma: chibi
+lamb_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: vana
+  zul:
+    class: '9_10'
+    lemma: vana
+lamp_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: lambu
+  zul:
+    class: '5_6'
+    lemma: lambu
+land_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: hlaba
+  zul:
+    class: '3_4'
+    lemma: hlaba
+laugh_V:
+  pos: V
+  ssw:
+    lemma: hlek
+  zul:
+    lemma: hlek
+laws_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: tsetfo
+  zul:
+    class: '3_4'
+    lemma: thetho
+lawyer_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: meli
+  zul:
+    class: '1_2'
+    lemma: meli
+learn_V:
+  pos: V
+  ssw:
+    lemma: fundz
+  zul:
+    lemma: fund
+learner_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: fundzi
+  zul:
+    class: '1_2'
+    lemma: fundi
+leg_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: lente
+  zul:
+    class: '3_4'
+    lemma: lenze
+letter_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ncwadzi
+  zul:
+    class: '9_10'
+    lemma: ncwadi
+licence_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: layisense
+  zul:
+    class: '5_6'
+    lemma: layisense
+lie_V:
+  pos: V
+  ssw:
+    lemma: lal
+  zul:
+    lemma: lal
+lightning_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: bani
+  zul:
+    class: '3_4'
+    lemma: bani
+lion_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhubesi
+  zul:
+    class: '5_6'
+    lemma: bhubesi
+listen_V:
+  pos: V
+  ssw:
+    lemma: lalel
+  zul:
+    lemma: lalel
+lock_V:
+  pos: V
+  ssw:
+    lemma: khiy
+  zul:
+    lemma: khiy
+lourie_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gwalagwala
+  zul:
+    class: '5_6'
+    lemma: gwalagwala
+louse_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ntfwala
+  zul:
+    class: '9_10'
+    lemma: ntwala
+mamba_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: mamba
+  zul:
+    class: '9_10'
+    lemma: mamba
+marker_V2:
+  pos: V2
+  ssw:
+    lemma: akh
+  zul:
+    lemma: akh
+married_V:
+  pos: V
+  ssw:
+    lemma: shadz
+  zul:
+    lemma: shad
+mass_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: sindvo
+  zul:
+    class: '7_8'
+    lemma: sindo
+match_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: dlalo
+  zul:
+    class: '3_4'
+    lemma: dlalo
+meal_V:
+  pos: V
+  ssw:
+    lemma: dl
+  zul:
+    lemma: dl
+metal_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nsimbi
+  zul:
+    class: '9_10'
+    lemma: nsimbi
+millipede_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: shongololo
+  zul:
+    class: '5_6'
+    lemma: shongololo
+minibus_N:
+  pos: N
+  ssw:
+    class: '5'
+    lemma: khumbi
+  zul:
+    class: '5'
+    lemma: khumbi
+minute_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: minithi
+  zul:
+    class: '5_6'
+    lemma: minithi
+mirror_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: buko
+  zul:
+    class: '7_8'
+    lemma: buko
+money_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: mali
+  zul:
+    class: '9_10'
+    lemma: mali
+monkey_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nkawu
+  zul:
+    class: '9_10'
+    lemma: nkawu
+month_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nyanga
+  zul:
+    class: '9_10'
+    lemma: nyanga
+moon_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nyanga
+  zul:
+    class: '9_10'
+    lemma: nyanga
+morning_V:
+  pos: V
+  ssw:
+    lemma: s
+  zul:
+    lemma: s
+mouth_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: lomo
+  zul:
+    class: '3_4'
+    lemma: lomo
+movie_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: filimu
+  zul:
+    class: '5_6'
+    lemma: filimu
+mud_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: dzaka
+  zul:
+    class: '11_10'
+    lemma: daka
+music_N:
+  pos: N
+  ssw:
+    class: '3'
+    lemma: culo
+  zul:
+    class: '3'
+    lemma: culo
+name_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gama
+  zul:
+    class: '5_6'
+    lemma: gama
+near_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: dvute
+  zul:
+    class: '5_6'
+    lemma: duze
+nest_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: dleke
+  zul:
+    class: '7_8'
+    lemma: dleke
+new_A:
+  pos: A
+  ssw:
+    lemma: sha
+  zul:
+    lemma: sha
+night_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: suku
+  zul:
+    class: '14'
+    lemma: suku
+nighttime_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: suku
+  zul:
+    class: '14'
+    lemma: suku
+nine_N:
+  pos: N
+  ssw:
+    class: '7'
+    lemma: shiyagalolunye
+  zul:
+    class: '7'
+    lemma: shiyagalolunye
+offence_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: cala
+  zul:
+    class: '5_6'
+    lemma: cala
+oil_N:
+  pos: N
+  ssw:
+    class: 1a
+    lemma: woyela
+  zul:
+    class: 1a
+    lemma: woyela
+one hundred_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khulu
+  zul:
+    class: '5_6'
+    lemma: khulu
+one_A:
+  pos: A
+  ssw:
+    lemma: nye
+  zul:
+    lemma: nye
+owl_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khova
+  zul:
+    class: '7_8'
+    lemma: khova
+packer_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: pakishi
+  zul:
+    class: '1_2'
+    lemma: pakishi
+paint_V:
+  pos: V
+  ssw:
+    lemma: pendz
+  zul:
+    lemma: pend
+pan_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: pani
+  zul:
+    class: '5_6'
+    lemma: pani
+pancake_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: cebelengwane
+  zul:
+    class: '5_6'
+    lemma: qebelengwane
+panda_V:
+  pos: V
+  ssw:
+    lemma: phandz
+  zul:
+    lemma: phand
+paper_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: phepha
+  zul:
+    class: '5_6'
+    lemma: phepha
+park_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: paki
+  zul:
+    class: '5_6'
+    lemma: paki
+parrot_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: pholi
+  zul:
+    class: 1a_2a
+    lemma: pholi
+partridge_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: tsendzele
+  zul:
+    class: '5_6'
+    lemma: thendele
+party_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: cimbi
+  zul:
+    class: '3_4'
+    lemma: cimbi
+paw_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: dladla
+  zul:
+    class: '7_8'
+    lemma: dladla
+pear_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: pheya
+  zul:
+    class: '5_6'
+    lemma: pheya
+pen_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: peni
+  zul:
+    class: '5_6'
+    lemma: peni
+people_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: ntfu
+  zul:
+    class: '1_2'
+    lemma: ntu
+photo_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tfombe
+  zul:
+    class: '7_8'
+    lemma: thombe
+photograph_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tfombe
+  zul:
+    class: '7_8'
+    lemma: thombe
+pig_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ngulube
+  zul:
+    class: '9_10'
+    lemma: ngulube
+place_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ndzawo
+  zul:
+    class: '9_10'
+    lemma: ndawo
+plan_V:
+  pos: V
+  ssw:
+    lemma: hlel
+  zul:
+    lemma: hlel
+plate_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: puleti
+  zul:
+    class: '5_6'
+    lemma: puleti
+play_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: dlalo
+  zul:
+    class: '3_4'
+    lemma: dlalo
+play_V:
+  pos: V
+  ssw:
+    lemma: dlal
+  zul:
+    lemma: dlal
+pliers_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: dlawu
+  zul:
+    class: '11_10'
+    lemma: dlawu
+plus_V:
+  pos: V
+  ssw:
+    lemma: hlanganis
+  zul:
+    lemma: hlanganis
+poem_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nkondlo
+  zul:
+    class: '9_10'
+    lemma: nkondlo
+police_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: phoyisa
+  zul:
+    class: '5_6'
+    lemma: phoyisa
+policeman_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: phoyisa
+  zul:
+    class: '5_6'
+    lemma: phoyisa
+pony_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: poni
+  zul:
+    class: '5_6'
+    lemma: poni
+porcupine_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ngungumbane
+  zul:
+    class: '9_10'
+    lemma: ngungumbane
+porridge_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: phalishi
+  zul:
+    class: '5_6'
+    lemma: phalishi
+post office_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: posi
+  zul:
+    class: '5_6'
+    lemma: posi
+pouch_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khwama
+  zul:
+    class: '7_8'
+    lemma: khwama
+pour_V:
+  pos: V
+  ssw:
+    lemma: tsel
+  zul:
+    lemma: thel
+pregnant_V:
+  pos: V
+  ssw:
+    lemma: khulelw
+  zul:
+    lemma: khulelw
+puff adder_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bululu
+  zul:
+    class: '5_6'
+    lemma: bululu
+pull_V:
+  pos: V
+  ssw:
+    lemma: dvons
+  zul:
+    lemma: dons
+puma_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: phuma
+  zul:
+    class: '5_6'
+    lemma: phuma
+pumpkin_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: tsanga
+  zul:
+    class: '5_6'
+    lemma: thanga
+pupa_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: phungumangathi
+  zul:
+    class: '7_8'
+    lemma: phungumangathi
+rain_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: vula
+  zul:
+    class: '9_10'
+    lemma: vula
+read_V:
+  pos: V
+  ssw:
+    lemma: fundz
+  zul:
+    lemma: fund
+receive_V:
+  pos: V
+  ssw:
+    lemma: amukel
+  zul:
+    lemma: amukel
+recite_V:
+  pos: V
+  ssw:
+    lemma: hay
+  zul:
+    lemma: hay
+remember_V:
+  pos: V
+  ssw:
+    lemma: khumbul
+  zul:
+    lemma: khumbul
+rent_V:
+  pos: V
+  ssw:
+    lemma: cash
+  zul:
+    lemma: qash
+respect_V:
+  pos: V
+  ssw:
+    lemma: hloniph
+  zul:
+    lemma: hloniph
+responsibilities_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: bopho
+  zul:
+    class: '7_8'
+    lemma: bopho
+rice_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: layisi
+  zul:
+    class: '5_6'
+    lemma: layisi
+ride_V:
+  pos: V
+  ssw:
+    lemma: gibel
+  zul:
+    lemma: gibel
+rights_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: lungelo
+  zul:
+    class: '5_6'
+    lemma: lungelo
+ripe_V:
+  pos: V
+  ssw:
+    lemma: vutsiw
+  zul:
+    lemma: vuthiw
+river_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: fula
+  zul:
+    class: '3_4'
+    lemma: fula
+road_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: gwaco
+  zul:
+    class: '3_4'
+    lemma: gwaqo
+rock_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: dvwala
+  zul:
+    class: '5_6'
+    lemma: dwala
+roof_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: phahla
+  zul:
+    class: '11_10'
+    lemma: phahla
+room_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kamelo
+  zul:
+    class: '5_6'
+    lemma: kamelo
+ruler_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: rula
+  zul:
+    class: '5_6'
+    lemma: rula
+run_V:
+  pos: V
+  ssw:
+    lemma: gijim
+  zul:
+    lemma: gijim
+sad_V:
+  pos: V
+  ssw:
+    lemma: dzabuk
+  zul:
+    lemma: dabuk
+sailor_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: tilosi
+  zul:
+    class: '5_6'
+    lemma: tilosi
+salamander_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ntfulo
+  zul:
+    class: '9_10'
+    lemma: ntulo
+salt_N:
+  pos: N
+  ssw:
+    class: '11'
+    lemma: sawoti
+  zul:
+    class: '11'
+    lemma: sawoti
+sand_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: hlabathi
+  zul:
+    class: '7_8'
+    lemma: hlabathi
+saw_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: saha
+  zul:
+    class: '5_6'
+    lemma: saha
+scale_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: kali
+  zul:
+    class: '7_8'
+    lemma: kali
+scarf_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khafu
+  zul:
+    class: '7_8'
+    lemma: khafu
+science_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: sayensi
+  zul:
+    class: '5_6'
+    lemma: sayensi
+security_V:
+  pos: V
+  ssw:
+    lemma: vikelek
+  zul:
+    lemma: vikelek
+see_V:
+  pos: V
+  ssw:
+    lemma: bon
+  zul:
+    lemma: bon
+seed_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: mbewu
+  zul:
+    class: '9_10'
+    lemma: mbewu
+seek_V:
+  pos: V
+  ssw:
+    lemma: fun
+  zul:
+    lemma: fun
+sell_V:
+  pos: V
+  ssw:
+    lemma: tsengis
+  zul:
+    lemma: thengis
+sentence_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: sho
+  zul:
+    class: '1_2'
+    lemma: sho
+seven_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khombisa
+  zul:
+    class: '7_8'
+    lemma: khombisa
+shark_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: shaka
+  zul:
+    class: 1a_2a
+    lemma: shaka
+sharp_V:
+  pos: V
+  ssw:
+    lemma: cij
+  zul:
+    lemma: cij
+shave_V:
+  pos: V
+  ssw:
+    lemma: shef
+  zul:
+    lemma: shef
+shed skin_V:
+  pos: V
+  ssw:
+    lemma: ebut
+  zul:
+    lemma: ebuz
+sheep_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: vu
+  zul:
+    class: '9_10'
+    lemma: vu
+ship_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: khumbi
+  zul:
+    class: '3_4'
+    lemma: khumbi
+shirt_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: hembe
+  zul:
+    class: '5_6'
+    lemma: hembe
+shoe_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: catfulo
+  zul:
+    class: '7_8'
+    lemma: cathulo
+shop_V:
+  pos: V
+  ssw:
+    lemma: tseng
+  zul:
+    lemma: theng
+shoulder_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: hlombe
+  zul:
+    class: '5_6'
+    lemma: hlombe
+side_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: cala
+  zul:
+    class: '5_6'
+    lemma: cala
+silver_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: siliva
+  zul:
+    class: '5_6'
+    lemma: siliva
+sing_V:
+  pos: V
+  ssw:
+    lemma: cul
+  zul:
+    lemma: cul
+singer_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: culi
+  zul:
+    class: '1_2'
+    lemma: culi
+singular_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: nye
+  zul:
+    class: '14'
+    lemma: nye
+sister_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: dzadzewetfu
+  zul:
+    class: 1a_2a
+    lemma: dadewethu
+sit_V:
+  pos: V
+  ssw:
+    lemma: hlal
+  zul:
+    lemma: hlal
+six_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tfupha
+  zul:
+    class: '7_8'
+    lemma: thupha
+skin_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khumba
+  zul:
+    class: '7_8'
+    lemma: khumba
+skirt_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: keti
+  zul:
+    class: '7_8'
+    lemma: keti
+skunk_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: caca
+  zul:
+    class: '5_6'
+    lemma: qaqa
+sky_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: bhakabhaka
+  zul:
+    class: '7_8'
+    lemma: bhakabhaka
+sleep_V:
+  pos: V
+  ssw:
+    lemma: lal
+  zul:
+    lemma: lal
+sleeve_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: khono
+  zul:
+    class: '3_4'
+    lemma: khono
+slice_V:
+  pos: V
+  ssw:
+    lemma: sik
+  zul:
+    lemma: sik
+slingshot_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: hlilingi
+  zul:
+    class: '7_8'
+    lemma: hlilingi
+smell_V:
+  pos: V
+  ssw:
+    lemma: nuk
+  zul:
+    lemma: nuk
+smile_V:
+  pos: V
+  ssw:
+    lemma: mamatsek
+  zul:
+    lemma: mamathek
+smoke_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: tfutfu
+  zul:
+    class: '9_10'
+    lemma: thuthu
+snake_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: nyoka
+  zul:
+    class: '6'
+    lemma: nyoka
+snow_N:
+  pos: N
+  ssw:
+    class: '5'
+    lemma: chwa
+  zul:
+    class: '5'
+    lemma: qhwa
+soap_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nsipho
+  zul:
+    class: '9_10'
+    lemma: nsipho
+sock_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: sokisi
+  zul:
+    class: '5_6'
+    lemma: sokisi
+sofa_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: sofa
+  zul:
+    class: 1a_2a
+    lemma: sofa
+son_N:
+  pos: N
+  ssw:
+    class: '9_6'
+    lemma: dvodzana
+  zul:
+    class: '9_6'
+    lemma: dodana
+sorghum_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bele
+  zul:
+    class: '5_6'
+    lemma: bele
+sound_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: sindvo
+  zul:
+    class: '3_4'
+    lemma: sindo
+soup_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: sobho
+  zul:
+    class: '5_6'
+    lemma: sobho
+speak_V:
+  pos: V
+  ssw:
+    lemma: khulum
+  zul:
+    lemma: khulum
+spring_N:
+  pos: N
+  ssw:
+    class: '9'
+    lemma: tfwasahlobo
+  zul:
+    class: '9'
+    lemma: thwasahlobo
+square_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: kwele
+  zul:
+    class: '7_8'
+    lemma: kwele
+stable_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tebele
+  zul:
+    class: '7_8'
+    lemma: tebele
+stairs_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: tebhisi
+  zul:
+    class: '7_8'
+    lemma: tebhisi
+stand_V:
+  pos: V
+  ssw:
+    lemma: m
+  zul:
+    lemma: m
+star_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nkanyeti
+  zul:
+    class: '9_10'
+    lemma: nkanyezi
+station_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: teshi
+  zul:
+    class: '7_8'
+    lemma: teshi
+stay away!_V:
+  pos: V
+  ssw:
+    lemma: sondzel
+  zul:
+    lemma: sondel
+stem_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: cu
+  zul:
+    class: '7_8'
+    lemma: qu
+stomach_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: su
+  zul:
+    class: '7_8'
+    lemma: su
+stop_V:
+  pos: V
+  ssw:
+    lemma: m
+  zul:
+    lemma: m
+story_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: dzaba
+  zul:
+    class: '9_10'
+    lemma: daba
+straight_V:
+  pos: V
+  ssw:
+    lemma: condz
+  zul:
+    lemma: qond
+stranger_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: hambi
+  zul:
+    class: '7_8'
+    lemma: hambi
+string_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: tsambo
+  zul:
+    class: '9_10'
+    lemma: thambo
+sugar_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: shukela
+  zul:
+    class: 1a_2a
+    lemma: shukela
+summer_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: hlobo
+  zul:
+    class: '5_6'
+    lemma: hlobo
+sun_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: anga
+  zul:
+    class: '6'
+    lemma: anga
+sunny_V:
+  pos: V
+  ssw:
+    lemma: libalel
+  zul:
+    lemma: libalel
+surname_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: bongo
+  zul:
+    class: '7_8'
+    lemma: bongo
+surprise_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: mangaliso
+  zul:
+    class: '7_8'
+    lemma: mangaliso
+swallow_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: nkonjane
+  zul:
+    class: '9_10'
+    lemma: nkonjane
+swan_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: kewu
+  zul:
+    class: '5_6'
+    lemma: kewu
+sweet potato_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: bhatata
+  zul:
+    class: 1a_2a
+    lemma: bhatata
+symbol_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: phawu
+  zul:
+    class: '11_10'
+    lemma: phawu
+tadpole_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: noshobishobi
+  zul:
+    class: 1a_2a
+    lemma: noshobishobi
+tail_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: sila
+  zul:
+    class: '3_4'
+    lemma: sila
+talk_V:
+  pos: V
+  ssw:
+    lemma: khulum
+  zul:
+    lemma: khulum
+tall_A:
+  pos: A
+  ssw:
+    lemma: dze
+  zul:
+    lemma: de
+taxi_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: tekisi
+  zul:
+    class: '5_6'
+    lemma: tekisi
+teach_V:
+  pos: V
+  ssw:
+    lemma: fundzis
+  zul:
+    lemma: fundis
+team_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: cembu
+  zul:
+    class: '5_6'
+    lemma: qembu
+tear_V:
+  pos: V
+  ssw:
+    lemma: dzabul
+  zul:
+    lemma: dabul
+telephone_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: cingo
+  zul:
+    class: '11_10'
+    lemma: cingo
+ten_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: shumi
+  zul:
+    class: '5_6'
+    lemma: shumi
+test_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: vivinyo
+  zul:
+    class: '7_8'
+    lemma: vivinyo
+thank you_V:
+  pos: V
+  ssw:
+    lemma: bong
+  zul:
+    lemma: bong
+thank_V:
+  pos: V
+  ssw:
+    lemma: bong
+  zul:
+    lemma: bong
+think_V:
+  pos: V
+  ssw:
+    lemma: cabang
+  zul:
+    lemma: cabang
+three_A:
+  pos: A
+  ssw:
+    lemma: tsatfu
+  zul:
+    lemma: thathu
+thunder_V:
+  pos: V
+  ssw:
+    lemma: dvum
+  zul:
+    lemma: dum
+today_Adv:
+  pos: Adv
+  ssw:
+    lemma: namuhla
+  zul:
+    lemma: namuhla
+tomato_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: tamatisi
+  zul:
+    class: 1a_2a
+    lemma: tamatisi
+toothbrush_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: cubho
+  zul:
+    class: '7_8'
+    lemma: xubho
+tortoise_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: fudvu
+  zul:
+    class: '11_10'
+    lemma: fudu
+township_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: lokishi
+  zul:
+    class: '5_6'
+    lemma: lokishi
+train_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: timela
+  zul:
+    class: '7_8'
+    lemma: timela
+train_V:
+  pos: V
+  ssw:
+    lemma: cecesh
+  zul:
+    lemma: qeqesh
+trainer_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: ceceshi
+  zul:
+    class: '1_2'
+    lemma: qeqeshi
+tree_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: hlahla
+  zul:
+    class: '7_8'
+    lemma: hlahla
+trolley_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ncola
+  zul:
+    class: '9_10'
+    lemma: nqola
+trumpet_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: cilongo
+  zul:
+    class: '5_6'
+    lemma: cilongo
+trunk_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: boko
+  zul:
+    class: '3_4'
+    lemma: boko
+tummy_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: su
+  zul:
+    class: '7_8'
+    lemma: su
+two_A:
+  pos: A
+  ssw:
+    lemma: bili
+  zul:
+    lemma: bili
+umbrella_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: ambulela
+  zul:
+    class: '7_8'
+    lemma: ambulela
+uncle_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: malume
+  zul:
+    class: 1a_2a
+    lemma: malume
+unfriendly_N:
+  pos: N
+  ssw:
+    class: '3'
+    lemma: sa
+  zul:
+    class: '3'
+    lemma: sa
+vapour_N:
+  pos: N
+  ssw:
+    class: '3'
+    lemma: hwamuko
+  zul:
+    class: '3'
+    lemma: hwamuko
+vendor_N:
+  pos: N
+  ssw:
+    class: '1_2'
+    lemma: tsengisi
+  zul:
+    class: '1_2'
+    lemma: thengisi
+venom_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: hlungu
+  zul:
+    class: '7_8'
+    lemma: hlungu
+volume_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: tsamo
+  zul:
+    class: '3_4'
+    lemma: thamo
+wagon_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: ncola
+  zul:
+    class: '9_10'
+    lemma: nqola
+waist_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: khalo
+  zul:
+    class: '11_10'
+    lemma: khalo
+wait_V:
+  pos: V
+  ssw:
+    lemma: lindz
+  zul:
+    lemma: lind
+waiter_N:
+  pos: N
+  ssw:
+    class: 1a_2a
+    lemma: weta
+  zul:
+    class: 1a_2a
+    lemma: weta
+walk_V:
+  pos: V
+  ssw:
+    lemma: hamb
+  zul:
+    lemma: hamb
+watch_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: washi
+  zul:
+    class: '5_6'
+    lemma: washi
+water_N:
+  pos: N
+  ssw:
+    class: '6'
+    lemma: nti
+  zul:
+    class: '6'
+    lemma: nzi
+waterbuck_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: phiva
+  zul:
+    class: '5_6'
+    lemma: phiva
+watermelon_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: khabe
+  zul:
+    class: '5_6'
+    lemma: khabe
+wave_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gagasi
+  zul:
+    class: '5_6'
+    lemma: gagasi
+weapons_N:
+  pos: N
+  ssw:
+    class: '7_8'
+    lemma: khali
+  zul:
+    class: '7_8'
+    lemma: khali
+wear_V:
+  pos: V
+  ssw:
+    lemma: gcok
+  zul:
+    lemma: gqok
+weed_N:
+  pos: N
+  ssw:
+    class: '11_10'
+    lemma: khula
+  zul:
+    class: '11_10'
+    lemma: khula
+weigh_V:
+  pos: V
+  ssw:
+    lemma: kal
+  zul:
+    lemma: kal
+wet_R:
+  pos: R
+  ssw:
+    lemma: manti
+  zul:
+    lemma: manzi
+wheelbarrow_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: bhala
+  zul:
+    class: '5_6'
+    lemma: bhala
+whistle_N:
+  pos: N
+  ssw:
+    class: '9_10'
+    lemma: mpempe
+  zul:
+    class: '9_10'
+    lemma: mpempe
+width_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: banti
+  zul:
+    class: '14'
+    lemma: banzi
+wind_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: moya
+  zul:
+    class: '3_4'
+    lemma: moya
+winter_N:
+  pos: N
+  ssw:
+    class: '14'
+    lemma: sika
+  zul:
+    class: '14'
+    lemma: sika
+wish_V:
+  pos: V
+  ssw:
+    lemma: fis
+  zul:
+    lemma: fis
+wood_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: pulangwe
+  zul:
+    class: '5_6'
+    lemma: pulangwe
+word_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: gama
+  zul:
+    class: '5_6'
+    lemma: gama
+work_V:
+  pos: V
+  ssw:
+    lemma: sebent
+  zul:
+    lemma: sebenz
+write_V:
+  pos: V
+  ssw:
+    lemma: bhal
+  zul:
+    lemma: bhal
+yawn_V:
+  pos: V
+  ssw:
+    lemma: tamul
+  zul:
+    lemma: zamul
+year_N:
+  pos: N
+  ssw:
+    class: '3_4'
+    lemma: nyaka
+  zul:
+    class: '3_4'
+    lemma: nyaka
+zebra_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: dvube
+  zul:
+    class: '5_6'
+    lemma: dube
+zero_N:
+  pos: N
+  ssw:
+    class: '5_6'
+    lemma: candza
+  zul:
+    class: '5_6'
+    lemma: qanda
